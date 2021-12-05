@@ -1,4 +1,4 @@
-- �<h1> Hi, I’m @ViniciusVazSystem
+- Olá, Eu sou Vinicius Vaz, trabalho com linguagens Front-end e análise de dados 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - ![images](https://user-images.githubusercontent.com/88793211/144745804-3fceca5d-fc8d-4330-b273-2952a8cced25.png)
 - 🌱 I’m currently learning Python,R, DataScience
